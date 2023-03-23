@@ -1,6 +1,6 @@
 # Integrating Turbo with Envizi via AppConnect for Green IT data
 
-This document explains the step-by-step instructions to pull green IT data from Turbonomic into Envizi via App Connect.
+This blog explains about the step-by-step instructions to pull green IT data from Turbonomic into Envizi via App Connect.
 
 ## Contents
 
